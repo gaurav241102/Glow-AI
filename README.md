@@ -48,8 +48,8 @@ A modern web application that uses AI to provide personalized skincare analysis 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd glow-ai-skincare-assistant
+git clone https://github.com/gaurav241102/Glow-AI-
+cd Glow-AI-
 ```
 
 2. Install frontend dependencies:
