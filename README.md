@@ -1,15 +1,18 @@
-A modern web application that uses AI to provide personalized skincare analysis
+# Glow AI
 
-1. Clone the repository:
-```bash
-git clone https://github.com/gaurav241102/Glow-AI-
-cd Glow-AI-
-```
+Mistral Powered AI SkinCare Assistant
 
-2. Install frontend dependencies:
+## Features
+- Personalized skincare recommendations
+- AI-powered skin analysis
+- Easy-to-use interface
 
-[...]
+## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Run the app
 
-- Hugging Face for providing the AI models
-- Mistral AI for the Mistral-Small-3.1-24B-Instruct-2503 model
-- The open-source community for the amazing tools and libraries 
+## License
+MIT
+
+wefuii2332
